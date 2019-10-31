@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <img src="https://raw.githubusercontent.com/orifoxx/laminar/assets/splash.svg" width="546" alt="laminar" />
+    <img src="https://raw.githubusercontent.com/orifoxx/laminar/master/assets/splash.svg" width="546" alt="laminar" />
   </p>
   <br />
 </div>
