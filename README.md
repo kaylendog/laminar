@@ -1,4 +1,12 @@
-# Laminar
+<div align="center">
+  <br />
+  <p>
+    <img src="https://raw.githubusercontent.com/orifoxx/laminar/assets/splash.svg" width="546" alt="laminar" />
+  </p>
+  <br />
+</div>
+
+## About
 
 Laminar is a Discord bot creation web interface, designed to make bok development for beginners that little bit easier.
 
