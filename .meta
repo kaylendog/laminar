@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "orchestrator": "https://github.com/orifoxx/laminar-orchestrator",
+    "backend": "https://github.com/orifoxx/laminar-backend",
+    "frontend": "https://github.com/orifoxx/laminar-frontend"
+  }
+}
